@@ -1,1 +1,6 @@
-style.css
+.background{
+	background-image: url(https://www.91-cdn.com/metareel-images/content/backdrops-1546994320-wqKDxZzWuE6k2wfuVQIrwabjbLp.jpg?tr=h-500,q-60);
+	width:  100%;
+	height: px;
+	background-size: cover;
+}
