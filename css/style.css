@@ -1,6 +1,18 @@
 .background{
-	background-image: url(https://www.91-cdn.com/metareel-images/content/backdrops-1546994320-wqKDxZzWuE6k2wfuVQIrwabjbLp.jpg?tr=h-500,q-60);
-	width:  100%;
-	height: px;
+	background-image: url(https://www.ppt-backgrounds.net/thumbs/animated-christmas-frame-keynote.jpg);
+	height: 100vh;
+	width: 100vw;
 	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+} 
+.santa{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	animation: mymove 10s infinite;	
+}
+
+
 }
